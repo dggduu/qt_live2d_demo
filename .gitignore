@@ -1,0 +1,6 @@
+.idea
+cmake-build-debug
+vcpkg.json
+Resources/Mao
+Resources/PB3
+petdialogworker.ui
